@@ -32,3 +32,4 @@ murder
 rebel
 aspiration
 elaborate
+strategy
